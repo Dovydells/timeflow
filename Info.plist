@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSUserNotificationAlertStyle</key>
+    <string>alert</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>TimeFlow needs access to track application usage for productivity insights.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>TimeFlow needs access to your calendar for task scheduling.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>TimeFlow needs access to create task reminders.</string>
+</dict>
+</plist> 
